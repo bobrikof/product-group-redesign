@@ -1,0 +1,44 @@
+<style type="text/css">.t-productgroup2 header {
+	border:0;
+}
+nav.grouplinksb2b {
+ border:0;
+}
+.t-productgroup2 .shadow-panel, .t-productgroup2 .panel.widget {
+  display:none;
+}
+.product-group-image {
+ border:1px solid #666;
+}
+.t-productgroup2 .slogan, .t-product2 .slogan {
+display:none;
+}
+
+.t-productgroup2 .ingress, .t-product2 .ingress {
+padding-bottom:0;
+}
+
+.small-12 ul.plain>li>a {
+    width: 150px;
+    text-align: center;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: medium;
+}
+
+@media screen and (max-width: 590px) {
+	.small-12 ul.plain>li>a {
+    	font-size: small;
+	}
+}
+
+@media screen and (max-width: 500px) {
+.small-12 ul.plain>li>a {
+    font-size: small;
+    display: table-cell;
+}
+
+ul.plain>li {
+ padding:0 10px 10px 0
+}</style>
+<p><img alt="x.jpg" class="product-group-image" height="846" src="x.jpg" width="2000" /></p>
