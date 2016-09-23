@@ -8,7 +8,8 @@ nav.grouplinksb2b {
   display:none;
 }
 .product-group-image {
- border:1px solid #666;
+ border:1px solid #ccc;
+ border-radius:3px;
 }
 .t-productgroup2 .slogan, .t-product2 .slogan {
 display:none;
